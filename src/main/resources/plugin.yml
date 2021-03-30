@@ -1,0 +1,4 @@
+name: ServerManagement
+main: tk.bungeefan.servermanagement.ServerManagement
+version: "1.0"
+author: Bungeefan

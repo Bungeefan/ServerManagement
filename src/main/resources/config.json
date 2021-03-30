@@ -1,0 +1,11 @@
+{
+  "startupTime": 20,
+  "server": [
+    {
+      "name": "survival",
+      "startScript": "survival/start.sh",
+      "stopScript": "survival/stop.sh",
+      "maxIdleTime": 10
+    }
+  ]
+}
