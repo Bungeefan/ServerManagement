@@ -1,5 +1,7 @@
-package tk.bungeefan.servermanagement.listener;
+package at.sevdev.servermanagement.listener;
 
+import at.sevdev.servermanagement.Server;
+import at.sevdev.servermanagement.ServerManagement;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.ServerPing;
 import net.md_5.bungee.api.chat.ComponentBuilder;
@@ -9,8 +11,6 @@ import net.md_5.bungee.api.event.ProxyPingEvent;
 import net.md_5.bungee.api.event.ServerDisconnectEvent;
 import net.md_5.bungee.api.plugin.Listener;
 import net.md_5.bungee.event.EventHandler;
-import tk.bungeefan.servermanagement.Server;
-import tk.bungeefan.servermanagement.ServerManagement;
 
 import java.lang.ref.WeakReference;
 import java.time.LocalDateTime;

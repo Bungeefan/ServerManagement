@@ -1,4 +1,4 @@
-package tk.bungeefan.servermanagement;
+package at.sevdev.servermanagement;
 
 import net.md_5.bungee.api.ProxyServer;
 

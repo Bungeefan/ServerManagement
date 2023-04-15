@@ -1,10 +1,10 @@
-package tk.bungeefan.servermanagement.commands;
+package at.sevdev.servermanagement.commands;
 
+import at.sevdev.servermanagement.ServerManagement;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.CommandSender;
 import net.md_5.bungee.api.chat.ComponentBuilder;
 import net.md_5.bungee.api.plugin.Command;
-import tk.bungeefan.servermanagement.ServerManagement;
 
 import java.lang.ref.WeakReference;
 import java.util.logging.Level;

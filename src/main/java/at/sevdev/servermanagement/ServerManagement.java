@@ -1,13 +1,13 @@
-package tk.bungeefan.servermanagement;
+package at.sevdev.servermanagement;
 
+import at.sevdev.servermanagement.commands.PluginCommand;
+import at.sevdev.servermanagement.listener.Events;
 import com.google.gson.internal.LinkedTreeMap;
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.plugin.Plugin;
 import net.md_5.bungee.config.Configuration;
 import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.JsonConfiguration;
-import tk.bungeefan.servermanagement.commands.PluginCommand;
-import tk.bungeefan.servermanagement.listener.Events;
 
 import java.io.BufferedReader;
 import java.io.IOException;

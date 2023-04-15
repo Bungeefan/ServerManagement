@@ -1,4 +1,4 @@
 name: ServerManagement
-main: tk.bungeefan.servermanagement.ServerManagement
+main: at.sevdev.servermanagement.ServerManagement
 version: "1.0"
 author: Bungeefan
